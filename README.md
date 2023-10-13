@@ -25,6 +25,7 @@ To achieve this, a few steps were followed:
 The methods include:
 * Decision Tree
 * Random Forest
+* XGBoost
 * KNN
 * Naive Bayes
 * SVM
@@ -35,4 +36,4 @@ The methods include:
 This work was inspired from the Udemy course Machine Learning in Python by Sundog, but was individually done by Diogo Ramalho.
 
 # IMPORTANT
-The notebook is not finished yet. I am improving the "Apply ML methods" and the conclusions are missing.
+The notebook is not finished yet. The NN part is not concluded yet and the results have to be added to the conclusions.
